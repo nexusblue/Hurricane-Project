@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.hurricaneprepardness.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\heg525\\Desktop\\Hurricane-Project-master\\Main\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Hurricane Prepardness [Testing]"
+        }
+      }
+    }
+  ]
+}
