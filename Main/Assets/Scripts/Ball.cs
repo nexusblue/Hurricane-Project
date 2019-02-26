@@ -21,7 +21,6 @@ public class Ball : MonoBehaviour{
         }
     }
 
-    // Update is called once per frame
     void Update(){
         if (lifeTime > 0) {
             //lifeTime -= Time.deltaTime;
@@ -43,16 +42,25 @@ public class Ball : MonoBehaviour{
             windZone = other.gameObject;
             inWindZone = true;
         }
+
     }
 
     private void OnTriggerExit(Collider other){
         if (other.gameObject.tag == "windArea"){
             inWindZone = false;
         }
+        if (other.gameObject.tag == "DestroyBall")
+        {
+            Destruction();
+            SpawnNewObject();
+        }
     }
 
-
     private void Destruction(){
-        //Destroy(this.gameObject);
+        Destroy(this.gameObject);
+    }
+    private void SpawnNewObject()
+    {
+        GameObject car = Instantiate(Resources.Load("car"), transform.position, transform.rotation) as GameObject;
     }
 }
