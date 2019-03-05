@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 2aba52d69c2a84987b5adf7bef6b75f2
+timeCreated: 1524633113
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: LargeBubble10
+    100002: LargeBubble3
+    100004: LargeBubble4
+    100006: LargeBubble5
+    100008: LargeBubble6
+    100010: LargeBubble7
+    100012: LargeBubble8
+    100014: LargeBubble9
+    100016: //RootNode
+    100018: Puddle1
+    100020: Puddle2
+    100022: Puddle3
+    100024: Puddle4
+    100026: Puddle5
+    400000: LargeBubble10
+    400002: LargeBubble3
+    400004: LargeBubble4
+    400006: LargeBubble5
+    400008: LargeBubble6
+    400010: LargeBubble7
+    400012: LargeBubble8
+    400014: LargeBubble9
+    400016: //RootNode
+    400018: Puddle1
+    400020: Puddle2
+    400022: Puddle3
+    400024: Puddle4
+    400026: Puddle5
+    2100000: oozeBot
+    2100002: oozeBubbleBrightGreen
+    2300000: LargeBubble10
+    2300002: LargeBubble3
+    2300004: LargeBubble4
+    2300006: LargeBubble5
+    2300008: LargeBubble6
+    2300010: LargeBubble7
+    2300012: LargeBubble8
+    2300014: LargeBubble9
+    2300016: Puddle1
+    2300018: Puddle2
+    2300020: Puddle3
+    2300022: Puddle4
+    2300024: Puddle5
+    3300000: LargeBubble10
+    3300002: LargeBubble3
+    3300004: LargeBubble4
+    3300006: LargeBubble5
+    3300008: LargeBubble6
+    3300010: LargeBubble7
+    3300012: LargeBubble8
+    3300014: LargeBubble9
+    3300016: Puddle1
+    3300018: Puddle2
+    3300020: Puddle3
+    3300022: Puddle4
+    3300024: Puddle5
+    4300000: Puddle1
+    4300002: LargeBubble10
+    4300004: LargeBubble9
+    4300006: Puddle2
+    4300008: LargeBubble3
+    4300010: LargeBubble4
+    4300012: LargeBubble5
+    4300014: Puddle3
+    4300016: LargeBubble6
+    4300018: LargeBubble8
+    4300020: LargeBubble7
+    4300022: Puddle5
+    4300024: Puddle4
+    7400000: OOZE
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ooze
+    second: {fileID: 2800000, guid: 00aede00f615a4ad08d7560f7e676584, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

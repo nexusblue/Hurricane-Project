@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 46a1cdf033fd8b440ac0224c763c8491
+timeCreated: 1523082996
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sink:Drawer
+    100004: sink:Drawer1
+    100006: sink:Knob1
+    100008: sink:Knob2
+    100010: sink:Knob3
+    100012: sink:Knob4
+    100014: sink:Pipe
+    100016: sink:Sink
+    400000: //RootNode
+    400002: sink:Drawer
+    400004: sink:Drawer1
+    400006: sink:Knob1
+    400008: sink:Knob2
+    400010: sink:Knob3
+    400012: sink:Knob4
+    400014: sink:Pipe
+    400016: sink:Sink
+    2100000: sink_color
+    2100002: knob_color
+    2100004: drawerShape1_color
+    2100006: pipe_color
+    2100008: drawerShape2_color
+    2300000: sink:Drawer
+    2300002: sink:Drawer1
+    2300004: sink:Knob1
+    2300006: sink:Knob2
+    2300008: sink:Knob3
+    2300010: sink:Knob4
+    2300012: sink:Pipe
+    2300014: sink:Sink
+    3300000: sink:Drawer
+    3300002: sink:Drawer1
+    3300004: sink:Knob1
+    3300006: sink:Knob2
+    3300008: sink:Knob3
+    3300010: sink:Knob4
+    3300012: sink:Pipe
+    3300014: sink:Sink
+    4300000: sink:Sink
+    4300002: sink:Knob4
+    4300004: sink:Drawer1
+    4300006: sink:Pipe
+    4300008: sink:Knob1
+    4300010: sink:Knob3
+    4300012: sink:Drawer
+    4300014: sink:Knob2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

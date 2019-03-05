@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: 8d82889fd45bc48088bfb10182614a73
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: buttonEye_left
+    100002: group
+    100004: headItem
+    100006: humanRig:chest_controller
+    100008: humanRig:chest_lower
+    100010: humanRig:chest_upper
+    100012: humanRig:core
+    100014: humanRig:core_Controller
+    100016: humanRig:elbow_l
+    100018: humanRig:elbow_r
+    100020: humanRig:foot_l
+    100022: humanRig:foot_r
+    100024: humanRig:group
+    100026: humanRig:hand_l
+    100028: humanRig:hand_r
+    100030: humanRig:head1
+    100032: humanRig:head_controller
+    100034: humanRig:hip_controller
+    100036: humanRig:ikHandle2
+    100038: humanRig:ikHandle3
+    100040: humanRig:joint5
+    100042: humanRig:knee_l
+    100044: humanRig:knee_r
+    100046: humanRig:l_elbow_controller
+    100048: humanRig:l_foot_controller
+    100050: humanRig:l_knee_controller
+    100052: humanRig:l_paw_controller
+    100054: humanRig:l_shoulder_controller
+    100056: humanRig:lower_body_controller
+    100058: humanRig:neck
+    100060: humanRig:neck_controller
+    100062: humanRig:nurbsSquare1
+    100064: humanRig:nurbsSquare2
+    100066: humanRig:nurbsSquare3
+    100068: humanRig:pCube6
+    100070: humanRig:r_elbow_controller
+    100072: humanRig:r_foot_controller
+    100074: humanRig:r_knee_controller
+    100076: humanRig:r_paw_controller
+    100078: humanRig:r_shoulder_controller
+    100080: humanRig:shoulder_l
+    100082: humanRig:shoulder_r
+    100084: humanRig:thigh_l
+    100086: humanRig:thigh_r
+    100088: humanRig:waist_controller
+    100090: joint1
+    100092: joint10
+    100094: joint12
+    100096: joint12 1
+    100098: joint13
+    100100: joint13 1
+    100102: joint14
+    100104: joint14 1
+    100106: joint15
+    100108: joint15 1
+    100110: joint16
+    100112: joint16 1
+    100114: joint17
+    100116: joint17 1
+    100118: joint18
+    100120: joint18 1
+    100122: joint19
+    100124: joint19 1
+    100126: joint20
+    100128: joint20 1
+    100130: joint21
+    100132: joint21 1
+    100134: joint22
+    100136: joint22 1
+    100138: joint23
+    100140: joint23 1
+    100142: joint24
+    100144: joint24 1
+    100146: joint25
+    100148: joint25 1
+    100150: joint26
+    100152: joint27
+    100154: joint27 1
+    100156: joint28
+    100158: joint28 1
+    100160: joint29
+    100162: joint29 1
+    100164: joint3
+    100166: joint3 1
+    100168: joint30
+    100170: joint30 1
+    100172: joint31
+    100174: joint31 1
+    100176: joint33
+    100178: joint4
+    100180: joint4 1
+    100182: joint5
+    100184: joint5 1
+    100186: joint6
+    100188: joint7
+    100190: joint8
+    100192: joint9
+    100194: nurbsCircle1
+    100196: nurbsCircle10
+    100198: nurbsCircle11
+    100200: nurbsCircle12
+    100202: nurbsCircle13
+    100204: nurbsCircle14
+    100206: nurbsCircle14 1
+    100208: nurbsCircle15
+    100210: nurbsCircle15 1
+    100212: nurbsCircle16
+    100214: nurbsCircle16 1
+    100216: nurbsCircle17
+    100218: nurbsCircle17 1
+    100220: nurbsCircle18
+    100222: nurbsCircle18 1
+    100224: nurbsCircle19
+    100226: nurbsCircle19 1
+    100228: nurbsCircle2
+    100230: nurbsCircle20
+    100232: nurbsCircle20 1
+    100234: nurbsCircle21
+    100236: nurbsCircle21 1
+    100238: nurbsCircle22
+    100240: nurbsCircle22 1
+    100242: nurbsCircle23
+    100244: nurbsCircle23 1
+    100246: nurbsCircle24
+    100248: nurbsCircle24 1
+    100250: nurbsCircle25
+    100252: nurbsCircle25 1
+    100254: nurbsCircle26
+    100256: nurbsCircle26 1
+    100258: nurbsCircle27
+    100260: nurbsCircle27 1
+    100262: nurbsCircle28
+    100264: nurbsCircle28 1
+    100266: nurbsCircle29
+    100268: nurbsCircle29 1
+    100270: nurbsCircle3
+    100272: nurbsCircle30
+    100274: nurbsCircle30 1
+    100276: nurbsCircle31
+    100278: nurbsCircle31 1
+    100280: nurbsCircle32
+    100282: nurbsCircle32 1
+    100284: nurbsCircle33
+    100286: nurbsCircle4
+    100288: nurbsCircle5
+    100290: nurbsCircle6
+    100292: nurbsCircle7
+    100294: nurbsCircle8
+    100296: nurbsCircle9
+    100298: pCube6
+    100300: teddyBody
+    100302: teddyHead
+    100304: teddyRigONlytoImport:buttonEye_left
+    100306: teddyRigONlytoImport:buttonEye_right
+    100308: teddyRigONlytoImport:group
+    100310: teddyRigONlytoImport:humanRig:group
+    100312: teddyRigONlytoImport:humanRig:nurbsSquare1
+    100314: teddyRigONlytoImport:humanRig:nurbsSquare2
+    100316: teddyRigONlytoImport:humanRig:nurbsSquare3
+    100318: teddyRigONlytoImport:humanRig:pCube6
+    100320: teddyRigONlytoImport:pCube6
+    100322: teddyRigONlytoImport:teddyHead
+    100324: teddyRigONlytoImport:transform1
+    100326: teddyRigONlytoImport:transform2
+    100328: teddyRigONlytoImport:transform3
+    100330: //RootNode
+    100332: wing
+    100334: wing1
+    400000: buttonEye_left
+    400002: group
+    400004: headItem
+    400006: humanRig:chest_controller
+    400008: humanRig:chest_lower
+    400010: humanRig:chest_upper
+    400012: humanRig:core
+    400014: humanRig:core_Controller
+    400016: humanRig:elbow_l
+    400018: humanRig:elbow_r
+    400020: humanRig:foot_l
+    400022: humanRig:foot_r
+    400024: humanRig:group
+    400026: humanRig:hand_l
+    400028: humanRig:hand_r
+    400030: humanRig:head1
+    400032: humanRig:head_controller
+    400034: humanRig:hip_controller
+    400036: humanRig:ikHandle2
+    400038: humanRig:ikHandle3
+    400040: humanRig:joint5
+    400042: humanRig:knee_l
+    400044: humanRig:knee_r
+    400046: humanRig:l_elbow_controller
+    400048: humanRig:l_foot_controller
+    400050: humanRig:l_knee_controller
+    400052: humanRig:l_paw_controller
+    400054: humanRig:l_shoulder_controller
+    400056: humanRig:lower_body_controller
+    400058: humanRig:neck
+    400060: humanRig:neck_controller
+    400062: humanRig:nurbsSquare1
+    400064: humanRig:nurbsSquare2
+    400066: humanRig:nurbsSquare3
+    400068: humanRig:pCube6
+    400070: humanRig:r_elbow_controller
+    400072: humanRig:r_foot_controller
+    400074: humanRig:r_knee_controller
+    400076: humanRig:r_paw_controller
+    400078: humanRig:r_shoulder_controller
+    400080: humanRig:shoulder_l
+    400082: humanRig:shoulder_r
+    400084: humanRig:thigh_l
+    400086: humanRig:thigh_r
+    400088: humanRig:waist_controller
+    400090: joint1
+    400092: joint10
+    400094: joint12
+    400096: joint12 1
+    400098: joint13
+    400100: joint13 1
+    400102: joint14
+    400104: joint14 1
+    400106: joint15
+    400108: joint15 1
+    400110: joint16
+    400112: joint16 1
+    400114: joint17
+    400116: joint17 1
+    400118: joint18
+    400120: joint18 1
+    400122: joint19
+    400124: joint19 1
+    400126: joint20
+    400128: joint20 1
+    400130: joint21
+    400132: joint21 1
+    400134: joint22
+    400136: joint22 1
+    400138: joint23
+    400140: joint23 1
+    400142: joint24
+    400144: joint24 1
+    400146: joint25
+    400148: joint25 1
+    400150: joint26
+    400152: joint27
+    400154: joint27 1
+    400156: joint28
+    400158: joint28 1
+    400160: joint29
+    400162: joint29 1
+    400164: joint3
+    400166: joint3 1
+    400168: joint30
+    400170: joint30 1
+    400172: joint31
+    400174: joint31 1
+    400176: joint33
+    400178: joint4
+    400180: joint4 1
+    400182: joint5
+    400184: joint5 1
+    400186: joint6
+    400188: joint7
+    400190: joint8
+    400192: joint9
+    400194: nurbsCircle1
+    400196: nurbsCircle10
+    400198: nurbsCircle11
+    400200: nurbsCircle12
+    400202: nurbsCircle13
+    400204: nurbsCircle14
+    400206: nurbsCircle14 1
+    400208: nurbsCircle15
+    400210: nurbsCircle15 1
+    400212: nurbsCircle16
+    400214: nurbsCircle16 1
+    400216: nurbsCircle17
+    400218: nurbsCircle17 1
+    400220: nurbsCircle18
+    400222: nurbsCircle18 1
+    400224: nurbsCircle19
+    400226: nurbsCircle19 1
+    400228: nurbsCircle2
+    400230: nurbsCircle20
+    400232: nurbsCircle20 1
+    400234: nurbsCircle21
+    400236: nurbsCircle21 1
+    400238: nurbsCircle22
+    400240: nurbsCircle22 1
+    400242: nurbsCircle23
+    400244: nurbsCircle23 1
+    400246: nurbsCircle24
+    400248: nurbsCircle24 1
+    400250: nurbsCircle25
+    400252: nurbsCircle25 1
+    400254: nurbsCircle26
+    400256: nurbsCircle26 1
+    400258: nurbsCircle27
+    400260: nurbsCircle27 1
+    400262: nurbsCircle28
+    400264: nurbsCircle28 1
+    400266: nurbsCircle29
+    400268: nurbsCircle29 1
+    400270: nurbsCircle3
+    400272: nurbsCircle30
+    400274: nurbsCircle30 1
+    400276: nurbsCircle31
+    400278: nurbsCircle31 1
+    400280: nurbsCircle32
+    400282: nurbsCircle32 1
+    400284: nurbsCircle33
+    400286: nurbsCircle4
+    400288: nurbsCircle5
+    400290: nurbsCircle6
+    400292: nurbsCircle7
+    400294: nurbsCircle8
+    400296: nurbsCircle9
+    400298: pCube6
+    400300: teddyBody
+    400302: teddyHead
+    400304: teddyRigONlytoImport:buttonEye_left
+    400306: teddyRigONlytoImport:buttonEye_right
+    400308: teddyRigONlytoImport:group
+    400310: teddyRigONlytoImport:humanRig:group
+    400312: teddyRigONlytoImport:humanRig:nurbsSquare1
+    400314: teddyRigONlytoImport:humanRig:nurbsSquare2
+    400316: teddyRigONlytoImport:humanRig:nurbsSquare3
+    400318: teddyRigONlytoImport:humanRig:pCube6
+    400320: teddyRigONlytoImport:pCube6
+    400322: teddyRigONlytoImport:teddyHead
+    400324: teddyRigONlytoImport:transform1
+    400326: teddyRigONlytoImport:transform2
+    400328: teddyRigONlytoImport:transform3
+    400330: //RootNode
+    400332: wing
+    400334: wing1
+    2100000: body
+    2100002: head
+    2100004: eyes
+    2100006: Wing
+    4300000: teddyBody
+    4300002: teddyHead
+    4300004: wing
+    4300006: wing1
+    9500000: //RootNode
+    13700000: teddyBody
+    13700002: teddyHead
+    13700004: wing
+    13700006: wing1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wing
+    second: {fileID: 2100006, guid: c900001a7b8b048c6919b26faba7bac4, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

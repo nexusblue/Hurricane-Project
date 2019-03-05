@@ -1,0 +1,244 @@
+fileFormatVersion: 2
+guid: 6e865429658554c82826b918a490b5b0
+timeCreated: 1519068304
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: buttonEye_left
+    100002: buttonEye_right
+    100004: group
+    100006: humanRig:chest_controller
+    100008: humanRig:chest_lower
+    100010: humanRig:chest_upper
+    100012: humanRig:core
+    100014: humanRig:core_Controller
+    100016: humanRig:elbow_l
+    100018: humanRig:elbow_r
+    100020: humanRig:foot_l
+    100022: humanRig:foot_r
+    100024: humanRig:group
+    100026: humanRig:hand_l
+    100028: humanRig:hand_r
+    100030: humanRig:head1
+    100032: humanRig:head_controller
+    100034: humanRig:hip_controller
+    100036: humanRig:ikHandle2
+    100038: humanRig:ikHandle3
+    100040: humanRig:joint5
+    100042: humanRig:knee_l
+    100044: humanRig:knee_r
+    100046: humanRig:l_elbow_controller
+    100048: humanRig:l_foot_controller
+    100050: humanRig:l_knee_controller
+    100052: humanRig:l_paw_controller
+    100054: humanRig:l_shoulder_controller
+    100056: humanRig:lower_body_controller
+    100058: humanRig:neck
+    100060: humanRig:neck_controller
+    100062: humanRig:nurbsSquare1
+    100064: humanRig:nurbsSquare2
+    100066: humanRig:nurbsSquare3
+    100068: humanRig:pCube6
+    100070: humanRig:r_elbow_controller
+    100072: humanRig:r_foot_controller
+    100074: humanRig:r_knee_controller
+    100076: humanRig:r_paw_controller
+    100078: humanRig:r_shoulder_controller
+    100080: humanRig:shoulder_l
+    100082: humanRig:shoulder_r
+    100084: humanRig:thigh_l
+    100086: humanRig:thigh_r
+    100088: humanRig:waist_controller
+    100090: pCube6
+    100092: //RootNode
+    100094: teddyBody
+    100096: teddyHead
+    100098: teddyHead 1
+    100100: transform1
+    100102: transform2
+    100104: transform3
+    400000: buttonEye_left
+    400002: buttonEye_right
+    400004: group
+    400006: humanRig:chest_controller
+    400008: humanRig:chest_lower
+    400010: humanRig:chest_upper
+    400012: humanRig:core
+    400014: humanRig:core_Controller
+    400016: humanRig:elbow_l
+    400018: humanRig:elbow_r
+    400020: humanRig:foot_l
+    400022: humanRig:foot_r
+    400024: humanRig:group
+    400026: humanRig:hand_l
+    400028: humanRig:hand_r
+    400030: humanRig:head1
+    400032: humanRig:head_controller
+    400034: humanRig:hip_controller
+    400036: humanRig:ikHandle2
+    400038: humanRig:ikHandle3
+    400040: humanRig:joint5
+    400042: humanRig:knee_l
+    400044: humanRig:knee_r
+    400046: humanRig:l_elbow_controller
+    400048: humanRig:l_foot_controller
+    400050: humanRig:l_knee_controller
+    400052: humanRig:l_paw_controller
+    400054: humanRig:l_shoulder_controller
+    400056: humanRig:lower_body_controller
+    400058: humanRig:neck
+    400060: humanRig:neck_controller
+    400062: humanRig:nurbsSquare1
+    400064: humanRig:nurbsSquare2
+    400066: humanRig:nurbsSquare3
+    400068: humanRig:pCube6
+    400070: humanRig:r_elbow_controller
+    400072: humanRig:r_foot_controller
+    400074: humanRig:r_knee_controller
+    400076: humanRig:r_paw_controller
+    400078: humanRig:r_shoulder_controller
+    400080: humanRig:shoulder_l
+    400082: humanRig:shoulder_r
+    400084: humanRig:thigh_l
+    400086: humanRig:thigh_r
+    400088: humanRig:waist_controller
+    400090: pCube6
+    400092: //RootNode
+    400094: teddyBody
+    400096: teddyHead
+    400098: teddyHead 1
+    400100: transform1
+    400102: transform2
+    400104: transform3
+    2100000: body
+    2100002: head
+    2100004: eyes
+    4300000: teddyBody
+    4300002: teddyHead
+    7400000: teddy_idle
+    9500000: //RootNode
+    13700000: teddyBody
+    13700002: teddyHead
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'humanRig:chest_lower' has translation animation
+      that will be discarded.\n\t'humanRig:chest_upper' has translation animation
+      that will be discarded.\n\t'humanRig:chest_upper' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'humanRig:neck' has translation
+      animation that will be discarded.\n\t'humanRig:head1' has translation animation
+      that will be discarded.\n\t'humanRig:shoulder_l' has translation animation that
+      will be discarded.\n\t'humanRig:elbow_l' has translation animation that will
+      be discarded.\n\t'humanRig:hand_l' has translation animation that will be discarded.\n\t'humanRig:shoulder_r'
+      has translation animation that will be discarded.\n\t'humanRig:elbow_r' has
+      translation animation that will be discarded.\n\t'humanRig:hand_r' has translation
+      animation that will be discarded.\n\t'humanRig:joint5' has translation animation
+      that will be discarded.\n\t'humanRig:joint5' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: teddy_idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

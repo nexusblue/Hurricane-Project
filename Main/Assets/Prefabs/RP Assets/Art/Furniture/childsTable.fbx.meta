@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 1e4f707e3cb364029b9d296cc37e1888
+timeCreated: 1521606458
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: chair
+    100002: chair1
+    100004: chair2
+    100006: child_cup
+    100008: child_Table
+    100010: //RootNode
+    100012: crayon
+    100014: crayon10
+    100016: crayon11
+    100018: crayon12
+    100020: crayon13
+    100022: crayon14
+    100024: crayon15
+    100026: crayon9
+    100028: eraser
+    100030: paper
+    100032: paper1
+    100034: paper2
+    400000: chair
+    400002: chair1
+    400004: chair2
+    400006: child_cup
+    400008: child_Table
+    400010: //RootNode
+    400012: crayon
+    400014: crayon10
+    400016: crayon11
+    400018: crayon12
+    400020: crayon13
+    400022: crayon14
+    400024: crayon15
+    400026: crayon9
+    400028: eraser
+    400030: paper
+    400032: paper1
+    400034: paper2
+    2100000: paper_Texture
+    2100002: kidsCup_Texture
+    2100004: eraser_Texture
+    2100006: crayon1
+    2100008: child_red
+    2100010: child_green
+    2100012: crayon2_texture
+    2100014: crayon4_texture
+    2100016: crayon6_textur
+    2100018: crayon5_texture
+    2100020: crayon8_texture
+    2100022: crayon7_texture
+    2100024: child_blue
+    2100026: kidsTable_Texture
+    2100028: crayon3_texture
+    2300000: chair
+    2300002: chair1
+    2300004: chair2
+    2300006: child_cup
+    2300008: child_Table
+    2300010: crayon
+    2300012: crayon10
+    2300014: crayon11
+    2300016: crayon12
+    2300018: crayon13
+    2300020: crayon14
+    2300022: crayon15
+    2300024: crayon9
+    2300026: eraser
+    2300028: paper
+    2300030: paper1
+    2300032: paper2
+    3300000: chair
+    3300002: chair1
+    3300004: chair2
+    3300006: child_cup
+    3300008: child_Table
+    3300010: crayon
+    3300012: crayon10
+    3300014: crayon11
+    3300016: crayon12
+    3300018: crayon13
+    3300020: crayon14
+    3300022: crayon15
+    3300024: crayon9
+    3300026: eraser
+    3300028: paper
+    3300030: paper1
+    3300032: paper2
+    4300000: paper
+    4300002: child_cup
+    4300004: eraser
+    4300006: crayon
+    4300008: chair1
+    4300010: chair
+    4300012: crayon9
+    4300014: crayon10
+    4300016: paper1
+    4300018: paper2
+    4300020: crayon12
+    4300022: crayon13
+    4300024: crayon14
+    4300026: crayon15
+    4300028: chair2
+    4300030: child_Table
+    4300032: crayon11
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

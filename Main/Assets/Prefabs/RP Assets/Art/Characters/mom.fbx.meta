@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 31bcdf078053c43e287453793a47c2f5
+timeCreated: 1524018898
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: humanRig:chest_controller
+    100002: humanRig:chest_lower
+    100004: humanRig:chest_upper
+    100006: humanRig:core
+    100008: humanRig:core_Controller
+    100010: humanRig:elbow_l
+    100012: humanRig:elbow_r
+    100014: humanRig:foot_l
+    100016: humanRig:foot_r
+    100018: humanRig:group
+    100020: humanRig:hand_l
+    100022: humanRig:hand_r
+    100024: humanRig:head1
+    100026: humanRig:head_controller
+    100028: humanRig:hip_controller
+    100030: humanRig:joint5
+    100032: humanRig:knee_l
+    100034: humanRig:knee_r
+    100036: humanRig:l_elbow_controller
+    100038: humanRig:l_foot_controller
+    100040: humanRig:l_knee_controller
+    100042: humanRig:l_paw_controller
+    100044: humanRig:l_shoulder_controller
+    100046: humanRig:lower_body_controller
+    100048: humanRig:neck
+    100050: humanRig:neck_controller
+    100052: humanRig:nurbsSquare1
+    100054: humanRig:nurbsSquare2
+    100056: humanRig:nurbsSquare3
+    100058: humanRig:pCube6
+    100060: humanRig:r_elbow_controller
+    100062: humanRig:r_foot_controller
+    100064: humanRig:r_knee_controller
+    100066: humanRig:r_paw_controller
+    100068: humanRig:r_shoulder_controller
+    100070: humanRig:shoulder_l
+    100072: humanRig:shoulder_r
+    100074: humanRig:thigh_l
+    100076: humanRig:thigh_r
+    100078: humanRig:waist_controller
+    100080: ikHandle1
+    100082: ikHandle2
+    100084: item
+    100086: l_leg
+    100088: //RootNode
+    100090: mom_head
+    100092: momBod
+    100094: nurbsCircle1
+    100096: nurbsCircle2
+    100098: r_leg
+    400000: humanRig:chest_controller
+    400002: humanRig:chest_lower
+    400004: humanRig:chest_upper
+    400006: humanRig:core
+    400008: humanRig:core_Controller
+    400010: humanRig:elbow_l
+    400012: humanRig:elbow_r
+    400014: humanRig:foot_l
+    400016: humanRig:foot_r
+    400018: humanRig:group
+    400020: humanRig:hand_l
+    400022: humanRig:hand_r
+    400024: humanRig:head1
+    400026: humanRig:head_controller
+    400028: humanRig:hip_controller
+    400030: humanRig:joint5
+    400032: humanRig:knee_l
+    400034: humanRig:knee_r
+    400036: humanRig:l_elbow_controller
+    400038: humanRig:l_foot_controller
+    400040: humanRig:l_knee_controller
+    400042: humanRig:l_paw_controller
+    400044: humanRig:l_shoulder_controller
+    400046: humanRig:lower_body_controller
+    400048: humanRig:neck
+    400050: humanRig:neck_controller
+    400052: humanRig:nurbsSquare1
+    400054: humanRig:nurbsSquare2
+    400056: humanRig:nurbsSquare3
+    400058: humanRig:pCube6
+    400060: humanRig:r_elbow_controller
+    400062: humanRig:r_foot_controller
+    400064: humanRig:r_knee_controller
+    400066: humanRig:r_paw_controller
+    400068: humanRig:r_shoulder_controller
+    400070: humanRig:shoulder_l
+    400072: humanRig:shoulder_r
+    400074: humanRig:thigh_l
+    400076: humanRig:thigh_r
+    400078: humanRig:waist_controller
+    400080: ikHandle1
+    400082: ikHandle2
+    400084: item
+    400086: l_leg
+    400088: //RootNode
+    400090: mom_head
+    400092: momBod
+    400094: nurbsCircle1
+    400096: nurbsCircle2
+    400098: r_leg
+    2100000: mombody
+    2100002: momLegs1
+    2100004: momLegs2
+    2100006: momHEad
+    4300000: momBod
+    4300002: r_leg
+    4300004: l_leg
+    4300006: mom_head
+    9500000: //RootNode
+    13700000: l_leg
+    13700002: mom_head
+    13700004: momBod
+    13700006: r_leg
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
