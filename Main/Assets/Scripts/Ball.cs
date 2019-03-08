@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class Ball : MonoBehaviour{
 
-    public float lifeTime = 10f;
+    //public float lifeTime = 10f;
     public bool inWindZone = false;
     public GameObject windZone;
+    public Vector3 spawnPosition;
+    public Quaternion spawnRotation;
 
     Rigidbody rb;
 
@@ -14,27 +16,14 @@ public class Ball : MonoBehaviour{
         rb = GetComponent<Rigidbody>();
     }
 
-    private void FixedUpdate()
-    {
+    private void FixedUpdate(){
         if (inWindZone) {
             rb.AddForce(windZone.GetComponent<WindArea>().direction * windZone.GetComponent<WindArea>().strength);
         }
     }
 
     void Update(){
-        if (lifeTime > 0) {
-            //lifeTime -= Time.deltaTime;
-            if(lifeTime <= 0){
-                Destruction();
-            }
-
-        }
-    }
-
-    private void OnCollisionEnter(Collision coll){
-        if (coll.gameObject.name == "destroyer") {
-            Destruction(); 
-        }
+   
     }
 
     private void OnTriggerEnter(Collider other){
@@ -49,18 +38,46 @@ public class Ball : MonoBehaviour{
         if (other.gameObject.tag == "windArea"){
             inWindZone = false;
         }
-        if (other.gameObject.tag == "DestroyBall")
-        {
+        if (other.gameObject.tag == "DestroyBall"){
             Destruction();
-            SpawnNewObject();
+            //SpawnNewObject();
         }
     }
 
     private void Destruction(){
         Destroy(this.gameObject);
     }
-    private void SpawnNewObject()
-    {
-        GameObject car = Instantiate(Resources.Load("car"), transform.position, transform.rotation) as GameObject;
+    private void SpawnNewObject(){
+        //GameObject car = 
+        Instantiate(Resources.Load("SportCar"), spawnPosition, spawnRotation);
     }
+
+
+    //Used code that might come back into play
+    /*
+    private void OnCollisionEnter(Collision coll){
+        if (coll.gameObject.name == "destroyer") {
+            Destruction();
+            SpawnNewObject();
+        }s
+    }
+
+    private void OnCollisionExit(Collision other){
+    if (other.gameObject.tag == "windArea"){
+        inWindZone = false;
+    }
+    if (other.gameObject.tag == "DestroyBall"){
+        Destruction();
+        SpawnNewObject();
+    }
+    }
+    //Inside update function  
+    if (lifeTime > 0) {
+        lifeTime -= Time.deltaTime;
+        if(lifeTime <= 0){
+            Destruction();
+        }
+    }*/
+
+
 }
